@@ -3,9 +3,12 @@
 
 The program generates a simple exam seating chart with a given criteria. The program can take input and give results in various formats. To get get started within the program or get full list of commands type the following commands.
 
-```prolog
- commands.
- help. ```
+
+```
+prolog
+commands.
+help. 
+```
 
 
 ### Commands list
