@@ -1,0 +1,32 @@
+#seats-container{
+  width: 1110px;
+  margin: auto;
+}
+
+.emptyseat{
+  width:50px;
+  height: 50px;
+  float: left;
+}
+
+.seat{
+  width: 40px;
+  height: 40px;
+  border: 1px solid black;
+  float: left;
+  margin: 5px;
+  background-color: #eee;
+  padding-left: 7px;
+  padding-top: 4px;
+  -webkit-transition: background-color 500ms linear;
+-ms-transition: background-color 500ms linear;
+transition: background-color 500ms linear;
+}
+
+.clear{
+  clear: left;
+}
+
+.gap{
+  margin-left: 65px;
+}
