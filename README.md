@@ -29,6 +29,9 @@ help.
 ### Note
 Open index.html in Firefox only! Chrome and Safari DO NOT SUPPORT cross origin requests for local files in javascript. This means that they do not have the rights to access local files, this means you have to click load file and select the output file however this functionality is disabled since it added another step.
 
-### Slides
-<a href="Seating-chart-generator-slides.pdf">View PDF of slides</a>
+### Other documents
+[Presentation slides](Seating-chart-generator-slides.pdf)
+
+[Project report](Project-Report.pdf)
+
     
